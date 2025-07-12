@@ -42,7 +42,7 @@ Dashboard video demo will be shared here and on LinkedIn.
 
 ## 🚀 How to Use
 
-1. Open [analysis.ipynb](analysis.ipynb) to understand the data preparation.
+1. Open `analysis.ipynb` to understand the data preparation.
 2. Use `FIFA 23 Cleaned.csv` in Power BI to build your own dashboard or explore the existing one.
 3. Explore the dashboard or use `FIFA23_official_data.csv` to experiment with your own cleaning logic.
 4. View the dashboard via the image or demo video.
