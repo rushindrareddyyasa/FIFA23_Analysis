@@ -4,9 +4,9 @@ This project showcases end-to-end analysis of the FIFA 23 player dataset using P
 
 ## 📁 Files Included
 
-- `analysis_commented.ipynb`: Python notebook used for data cleaning and feature engineering.
-- `dashboard_image.png`: Snapshot of the final Power BI dashboard.
-- `dashboard_video.mp4`: A short demo video of the interactive dashboard (to be added).
+- `raw_fifa23_data.csv`: The original FIFA 23 dataset used for analysis.
+- `analysis.ipynb`: Python notebook used for data cleaning and feature engineering.
+- `dashboard.mp4`: A short demo video of the interactive dashboard (to be added).
   
 ## 🔍 Key Highlights from the Notebook
 
@@ -42,8 +42,8 @@ Dashboard video demo will be shared here and on LinkedIn.
 
 ## 🚀 How to Use
 
-1. Open `analysis_commented.ipynb` to understand the data preparation.
-2. Use `processed_fifa.csv` in Power BI to build your own dashboard or explore the existing one.
+1. Open `analysis.ipynb` to understand the data preparation.
+2. Use `FIFA 23 Cleaned.csv` in Power BI to build your own dashboard or explore the existing one.
 3. View the dashboard via the image or demo video.
 
 ---
